@@ -1,0 +1,53 @@
+#title{
+    font-size: 2.25em;
+    text-align: center;
+}
+.txtdir {
+    font-size: 1.75em;
+    text-align: center;
+}
+.etdimg {
+    height: 250px;
+    width: 250px;
+}
+#directeur {
+    color: rgb(19, 19, 19);
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5em;
+    border-radius: 10px;
+    background-color: white;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+#etude {
+    text-align: center;
+    color: rgb(19, 19, 19);
+    font-size: 1.5em;
+    border-radius: 10px;
+    background-color: white;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+#ensi {
+    text-align: center;
+    color: rgb(19, 19, 19);
+    font-size: 1.5em;
+    border-radius: 10px;
+    background-color: white;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+#title2 {
+    font-size: 2.25em;
+    text-align: center;
+}
+#dev {
+  text-align: center; 
+  font-size: 1.5em;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px; 
+}

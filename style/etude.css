@@ -1,0 +1,20 @@
+h1 {
+    font-size: 2.25em;
+    text-align: center;
+}
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+}
+#txtx {
+    font-size: 1.2em;
+    text-align: center;
+}
+#shem {
+    text-align: center;
+}
+#shema {
+    border-radius: 10px;
+    background-color: white;
+    margin: 10px 0 10px 0;
+}

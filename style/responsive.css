@@ -1,0 +1,113 @@
+@media screen and (max-width:480px) {
+    @keyframes background{
+        from {background-color:rgb(255, 60, 0);}
+        to{background-color:orange;}
+    }
+body,html {
+    float: center;
+    -moz-animation-name: background;
+    animation-name: background;
+    animation-duration: 5s;
+    -moz-animation-duration: 5s;
+    animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+    -moz-animation-direction: alternate-reverse;
+    font-family: code, tahoma , 'open sans' , georgia , sans-serif;
+    font-weight: bold;
+    color: white;
+}
+#bnvn {
+    background-image: url('back02.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+#headimg{
+height: 150px;
+width: 150px;
+}
+#headtxt{
+    font-size: 1.25em;
+}
+#tpbn{
+    list-style: none;
+    font-size: 0.75em;
+    float: left;
+}
+nav li{
+    display: inline-block;
+}
+.topbtn{
+    font-size: 1em;
+    height: 100%;
+    width: 50%;
+    margin: 5px 5px 5px 5px;
+    display: block;
+}
+.topbtn:hover{
+    background-color: orange;
+}
+.icn{
+    width: 50%;
+    height: 50%;
+    float: center;
+}
+.txte {
+    font-size: 0.75em;
+}
+#titre {
+    font-size: 1.25em;
+    float: center;
+}
+#soustitre {
+    font-size: 1em;
+    float: center;
+}
+.socialmedia{
+    height: 50px;
+    width: 50px;
+}
+.socialmedia:hover{
+    background-color: orange;
+}
+#shema {
+    height: 50%;
+    width: 50%;
+}
+#stmg{
+    height: 70%;
+    width: 70%;
+    float: center;
+}
+#ndmg{
+    height: 70%;
+    width: 70%;
+    float: center;
+}
+.content{
+    text-align: left;
+}
+.h{
+    font-size: 1.25em;
+}
+#titur{
+    font-size: 1.25em;
+}
+#lists{
+    font-size:0.75em;
+}
+#img{
+    height: 50%;
+    width: 50%; 
+}
+#title{
+    font-size: 1.25em;
+}
+#title2{
+    font-size: 1.25em;
+}
+#input:hover{
+    background-color: orange;
+}
+}

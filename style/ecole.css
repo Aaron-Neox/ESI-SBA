@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-size: 2.25em;
+}
+h2 {
+    text-align: center;
+    font-size: 1.5em;
+}
+#st {
+    background-color: white;
+    color: #333;
+    border-radius: 10px;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+#stmg {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+#nd {
+    background-color: white;
+    color: #333;
+    border-radius: 10px;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+#ndmg {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+.content {
+    text-align: justify;
+    font-size: 1.1em;
+
+}
+#intro {
+    font-size: 1.25em;
+}
+#b {
+    border-radius: 10px;
+    background-color: white;
+    color: #333;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+}
